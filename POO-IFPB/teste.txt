@@ -1,0 +1,20 @@
+VICTOR; meu nome
+JAILSON; meu colega
+JOAO PESSOA; cidade onde moro
+IFPB; instituto federal
+NEGO; frase na bandeira da PB
+SERTAO; microrregiao da PB
+NORDESTE; regiao
+IRA; civilizacao persa
+DOLLY;refrigerante
+OTORRINOLARINGOLOGISTA; medico
+OFTALMOTORRINOLARINGOLOGISTA; especialista olho e ouvido
+OBSEQUIO; tratamento
+VOLUPIA; prazer sensitivo
+AMOR; sentimento
+IMPAVIDO; destemido
+EXCENTRICO; extravagante
+ESTAGNADO; periodo
+INTERSECCAO; intervir
+PREPONDERANTE; autoridade
+LETARGICO; desanimo
